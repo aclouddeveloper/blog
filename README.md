@@ -4,6 +4,6 @@ I'm going to use this github repository as a blog, because I don't have time to 
 
 # Posts
 
-## February
+## January
 
 [22-01-28 - Hello World](./2022-01/28.md)
